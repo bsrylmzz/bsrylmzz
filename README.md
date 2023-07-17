@@ -30,7 +30,7 @@
 - 💬 Ask me about **Questions about 42 Ecole.**
 
 - 📫 How to reach me **ylmzbusra369@gmail.com**
-<img align="right" alt="pixelart" width="300" src="https://i.pinimg.com/originals/ea/bd/8b/eabd8bd47418949af7ba62a7ffcabe89.gif">
+<img align="right" alt="pixelart" width="400" src="https://i.pinimg.com/originals/7a/30/e3/7a30e3bfee243569eee09bc711e81505.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
