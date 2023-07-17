@@ -14,6 +14,7 @@
 | Libft <img width=150>|[![buyilmaz's 42 Libft Score](https://badge42.vercel.app/api/v2/cljybvrug001108lafu8zlvpe/project/2820993)](https://github.com/bsrylmzz/libft) |
 | ft_printf | [![buyilmaz's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cljybvrug001108lafu8zlvpe/project/2922540)](https://github.com/bsrylmzz/ft_printf) |
 | get_next_line | [![buyilmaz's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cljybvrug001108lafu8zlvpe/project/2913168)](https://github.com/bsrylmzz/get_next_line) |
+| so_long | [![buyilmaz's 42 so_long Score](https://badge42.vercel.app/api/v2/cljybvrug001108lafu8zlvpe/project/3153429)](https://github.com/bsrylmzz/So_long) |
 
 </td>
   <td style="padding:0; margin:0;">
