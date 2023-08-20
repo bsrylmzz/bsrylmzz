@@ -24,6 +24,7 @@
 | Born2beroot <img width=150> | [![buyilmaz's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cljybvrug001108lafu8zlvpe/project/2941974)](https://github.com/bsrylmzz/) |
 | minitalk | [![buyilmaz's 42 minitalk Score](https://badge42.vercel.app/api/v2/cljybvrug001108lafu8zlvpe/project/3110422)](https://github.com/bsrylmzz/minitalk) |
 | Exam Rank 02 | [![buyilmaz's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cljybvrug001108lafu8zlvpe/project/3089067)](https://github.com/bsrylmzz/42_exam_rank_02) |
+| Push_swap | [![buyilmaz's 42 push_swap Score](https://badge42.vercel.app/api/v2/cljybvrug001108lafu8zlvpe/project/3173179)](https://github.com/bsrylmzz/Push_swap) |
 
   </td></tr>
   </table>
